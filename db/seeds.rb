@@ -1,0 +1,5 @@
+RandomGreeting.create(message: "Hello")
+RandomGreeting.create(message: "Hi")
+RandomGreeting.create(message: "Good morning")
+RandomGreeting.create(message: "Good afternoon")
+RandomGreeting.create(message: "Good noon")
